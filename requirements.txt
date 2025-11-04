@@ -1,19 +1,10 @@
-# Core Data Science Packages
 pandas
 numpy
-
-# Database
-sqlite3-binary
-
-# Visualization
 matplotlib
 seaborn
-
-# Notebooks
-jupyter
-
-# Optional (Dashboard deployment - Streamlit)
+scikit-learn
+xgboost
 streamlit
-
-# Tableau Export Support (Hyper API)
-tableauhyperapi
+jupyter
+sqlalchemy
+plotly
