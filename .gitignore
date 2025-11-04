@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+.env.*
+.vscode/
+.ipynb_checkpoints/
+
+# Data / models
+data/
+models/
+*.pkl
+*.h5
+*.ckpt
+
+# OS / logs
+.DS_Store
+*.log
+
+# Docker
+docker-compose.override.yml
+
+# Python virtual env
+venv/
+.env/
